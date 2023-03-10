@@ -19,7 +19,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 decode-morse-code <a name="about-project"></a>
+# 📖 enumerable <a name="about-project"></a>
 
 **[Enumerable]** this is a project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
@@ -70,7 +70,11 @@ run files with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+👤 **Ivan Martinez**
+
+- GitHub: [@ivanmvh](https://github.com/ivanmvh)
+- Twitter: [@imprivado](https://twitter.com/imprivado)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivan-martinez-von-halle/)
 
 ## 👥 Authors <a name="Joseph Ogbole"></a>
 
